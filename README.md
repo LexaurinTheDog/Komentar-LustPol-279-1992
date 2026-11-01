@@ -11,7 +11,7 @@ Začněte [úvodem](00-uvod.md) a [rejstříkem ustanovení](INDEX.md).
 | Soubor | Obsah |
 |---|---|
 | [00](00-uvod.md) | Úvod — kontext, klíčové instituty, metoda |
-| [01](01-funkce-predpoklady.md) | Funkce a předpoklady pro jejich výkon v Policii ČR a BIS, prokazování (§ 1–6) |
+| [01](01-funkce-predpoklady.md) | Funkce a předpoklady pro jejich výkon v ministerstvu vnitra, Policii ČR a Sboru nápravné výchovy, prokazování (§ 1–6) |
 | [02](02-osvedceni-skonceni-prestupky.md) | Čestné prohlášení, osvědčení, skončení služebního poměru, rozšíření působnosti, přestupky a účinnost (§ 7–11) |
 
 Doplňkové soubory: [ZASADY.md](ZASADY.md), [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), [HLOUBKOVY-VYKLAD.md](HLOUBKOVY-VYKLAD.md), [VYKLADOVE-OTAZKY.md](VYKLADOVE-OTAZKY.md), [judikatura/](judikatura/README.md).
