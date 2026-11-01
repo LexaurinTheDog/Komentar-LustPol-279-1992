@@ -147,6 +147,8 @@ Osvědčení si vyžaduje ministr vnitra nebo spravedlnosti, popřípadě zmocn�
 - *NS* [30 Cdo 3947/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F5B59D10F58B4C76C1257DB60036719C?openDocument) — 4. 12. 2014, kat. A
   > „Evidence osoby v materiálech Státní bezpečnosti není nesprávným úředním postupem ve smyslu zákona č. 82/1998 Sb. (ve znění pozdějších předpisů) bez zřetele k tomu, že soud určil, že šlo o evidenci neoprávněnou"
 
+**K místní judikaturní kartě NS 30 Cdo 3947/2013** ([judikatura/NS-30-Cdo-3947-2013.md](judikatura/NS-30-Cdo-3947-2013.md)): podle její právní věty samotná evidence osoby v materiálech Státní bezpečnosti není nesprávným úředním postupem ve smyslu zákona č. 82/1998 Sb., ani když soud určil, že šlo o evidenci neoprávněnou. S § 9 souvisí jen nepřímo: vymezuje, že ze samotné evidence ve svazcích StB, která se může promítnout do osvědčení a do skončení služebního poměru, nelze dovozovat odpovědnost státu za škodu. Výklad podmínek skončení služebního poměru podle § 9 tím není dotčen.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Policista (nar. 1958) slouží na služebním místě vedoucího oddělení odpovídajícím funkci podle § 2. Při výběrovém řízení předložil čestné prohlášení, že nebyl příslušníkem Lidových milicí. Personální útvar 1. 6. zjistí z archivních dokumentů, že jím v letech 1983–1989 byl. Služební funkcionář vydá rozhodnutí o propuštění 30. 6.

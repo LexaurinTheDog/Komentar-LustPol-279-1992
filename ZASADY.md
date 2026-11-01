@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona citované v kapitolách [01-funkce-predpoklady.md](01-funkce-predpoklady.md) a [02-osvedceni-skonceni-prestupky.md](02-osvedceni-skonceni-prestupky.md) a výklad v nich obsažený. Repozitář neobsahuje místní judikaturu k tomuto zákonu; zásady níže jsou proto dovozeny z textu zákona, jeho systematiky, vztahu k zákonu č. 451/1991 Sb. a z explicitně vyjádřeného účelu jednotlivých ustanovení — nikoli z judikatorních tezí. Každá zásada je doložena doslovnou citací z kapitol s uvedením souboru a paragrafu.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona citované v kapitolách [01-funkce-predpoklady.md](01-funkce-predpoklady.md) a [02-osvedceni-skonceni-prestupky.md](02-osvedceni-skonceni-prestupky.md) a výklad v nich obsažený. Repozitář obsahuje jedinou místní judikaturní kartu, NS 30 Cdo 3947/2013 ([judikatura/NS-30-Cdo-3947-2013.md](judikatura/NS-30-Cdo-3947-2013.md)), uvedenou u § 9, s nímž souvisí jen nepřímo (odpovědnost státu za škodu podle zákona č. 82/1998 Sb.); ostatní ustanovení jsou bez místní judikatury. Zásady níže jsou proto dovozeny z textu zákona, jeho systematiky, vztahu k zákonu č. 451/1991 Sb. a z explicitně vyjádřeného účelu jednotlivých ustanovení — nikoli z judikatorních tezí. Každá zásada je doložena doslovnou citací z kapitol s uvedením souboru a paragrafu.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
 

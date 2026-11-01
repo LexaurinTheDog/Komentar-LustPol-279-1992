@@ -2,7 +2,7 @@
 
 > **Znění k 1. červenci 2017** (dokument e-Sbírky `SB-1992-00279_2017-07-01`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Místní konsolidace zachycuje zákon ve znění k 1. 7. 2017, tedy včetně § 10d o přestupcích vloženého zákonem č. 183/2017 Sb. Novější znění v místních zdrojích není, a pozdější změny proto nelze vyloučit. Zákon dodnes pracuje s organizačními útvary a orgány, které zanikly (federální ministerstvo vnitra, Sbor nápravné výchovy České republiky, Úřad vyšetřování pro Českou republiku, správy krajů), a jeho poznámky pod čarou odkazují zčásti na zrušené předpisy (zákon č. 283/1991 Sb., zákon č. 186/1992 Sb., ustanovení zákona č. 451/1991 Sb. o komisi a nálezech). Komentář proto vykládá text vždy ve spojení s pravidly o nástupnictví (§ 29 zákona č. 555/1992 Sb., čl. 3 odst. 3 ústavního zákona č. 4/1993 Sb.). K zákonu se v místních materiálech nenachází samostatná rozhodovací praxe; komentář žádné spisové značky neuvádí a sporné body poctivě označuje jako výkladové otázky.
+> **Metodická poznámka:** Místní konsolidace zachycuje zákon ve znění k 1. 7. 2017, tedy včetně § 10d o přestupcích vloženého zákonem č. 183/2017 Sb. Novější znění v místních zdrojích není, a pozdější změny proto nelze vyloučit. Zákon dodnes pracuje s organizačními útvary a orgány, které zanikly (federální ministerstvo vnitra, Sbor nápravné výchovy České republiky, Úřad vyšetřování pro Českou republiku, správy krajů), a jeho poznámky pod čarou odkazují zčásti na zrušené předpisy (zákon č. 283/1991 Sb., zákon č. 186/1992 Sb., ustanovení zákona č. 451/1991 Sb. o komisi a nálezech). Komentář proto vykládá text vždy ve spojení s pravidly o nástupnictví (§ 29 zákona č. 555/1992 Sb., čl. 3 odst. 3 ústavního zákona č. 4/1993 Sb.). Místní materiály obsahují jedinou judikaturní kartu, NS 30 Cdo 3947/2013 ([judikatura/NS-30-Cdo-3947-2013.md](judikatura/NS-30-Cdo-3947-2013.md)), uvedenou u § 9; s tímto ustanovením souvisí jen nepřímo (odpovědnost státu za škodu podle zákona č. 82/1998 Sb.). Ostatní ustanovení jsou bez místní judikatury a sporné body komentář poctivě označuje jako výkladové otázky.
 
 ---
 
@@ -56,7 +56,7 @@ Doprovodné soubory: [ZASADY.md](ZASADY.md) (právní zásady doložené doslovn
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** podle místní konsolidace k 1. 7. 2017 (včetně zjevných písařských chyb, na něž výklad upozorňuje), pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika, H. Praktický závěr s kontrolním checklistem.
 - Zrušená písmena a odstavce (§ 3 odst. 1 písm. d), § 3 odst. 3 a 4, § 5 odst. 2) se nekomentují; odkazy na ně v § 6, § 8 a § 9 se vykládají s užším obsahem.
-- Komentář neobsahuje judikaturu ani spisové značky; kde text zákona nedává jednoznačnou odpověď (např. povaha lhůty 15 dnů, vztah ke kumulaci s LustZ, následky nesplnění zvláštních předpokladů podle § 10b), je to výslovně označeno jako **výkladová otázka**.
+- Komentář obsahuje jedinou místní judikaturní kartu, NS 30 Cdo 3947/2013 u § 9 ([judikatura/NS-30-Cdo-3947-2013.md](judikatura/NS-30-Cdo-3947-2013.md)), která s § 9 souvisí jen nepřímo (zákon č. 82/1998 Sb.); ostatní ustanovení jsou bez místní judikatury. Kde text zákona nedává jednoznačnou odpověď (např. povaha lhůty 15 dnů, vztah ke kumulaci s LustZ, následky nesplnění zvláštních předpokladů podle § 10b), je to výslovně označeno jako **výkladová otázka**.
 
 ---
 

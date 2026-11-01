@@ -9,7 +9,7 @@
 Každá z třinácti vrstev odděluje místní zjištění, autorský test a dohledatelnou místní oporu. Tvrzení se při dalším psaní označuje podle své epistemické povahy:
 
 - **Text:** závěr přímo vyplývající z místního znění předpisu (místní konsolidace k 1. 7. 2017).
-- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže; v tomto repozitáři zatím žádná taková karta není.
+- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže; v tomto repozitáři je jediná místní karta, NS 30 Cdo 3947/2013 ([judikatura/NS-30-Cdo-3947-2013.md](judikatura/NS-30-Cdo-3947-2013.md)) u § 9, která s ním souvisí jen nepřímo (odpovědnost státu za škodu podle zákona č. 82/1998 Sb.).
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů, zejména vztahu k zákonu č. 451/1991 Sb. (LustZ), zákonu č. 361/2003 Sb. a zákonu č. 555/1992 Sb.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení; kapitoly ji samy označují jako **výkladovou otázku**.
 
@@ -281,19 +281,19 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Místní složka `judikatura/` dosud neexistuje (doplní se strojově později); repozitář proto obsahuje **0 karet rozhodnutí** a soubor zásad odkazuje na **0 místních karet s použitelnou citací**. Kapitoly neobsahují žádnou spisovou značku.
-- [Úvod — metodická poznámka](00-uvod.md): „K zákonu se v místních materiálech nenachází samostatná rozhodovací praxe; komentář žádné spisové značky neuvádí a sporné body poctivě označuje jako výkladové otázky.“
-- [Úvod — poznámka k metodě](00-uvod.md): „Komentář neobsahuje judikaturu ani spisové značky“
+Místní složka `judikatura/` obsahuje **1 kartu rozhodnutí**: NS 30 Cdo 3947/2013 ([judikatura/NS-30-Cdo-3947-2013.md](judikatura/NS-30-Cdo-3947-2013.md)), uvedenou u § 9. Podle její právní věty evidence osoby v materiálech StB není nesprávným úředním postupem ve smyslu zákona č. 82/1998 Sb., i když soud určil, že evidence byla neoprávněná. S § 9 souvisí jen nepřímo; ostatní ustanovení jsou bez místní judikatury.
+- [§ 9 — k místní judikaturní kartě](02-osvedceni-skonceni-prestupky.md): „S § 9 souvisí jen nepřímo: vymezuje, že ze samotné evidence ve svazcích StB, která se může promítnout do osvědčení a do skončení služebního poměru, nelze dovozovat odpovědnost státu za škodu.“
+- [§ 9 — k místní judikaturní kartě](02-osvedceni-skonceni-prestupky.md): „Výklad podmínek skončení služebního poměru podle § 9 tím není dotčen.“
 
-Jediným místně zachyceným rozhodnutím soudu je derogační nález Ústavního soudu vyhlášený pod č. 35/2002 Sb. Kapitoly jej uvádějí výhradně jako změnu znění (zrušení § 3 odst. 1 písm. d), § 3 odst. 3 a 4 a § 5 odst. 2); jeho nosné důvody, ústavněprávní argumentace ani hranice závěrů v místním korpusu zachyceny nejsou. Místní korpus tedy neposkytuje judikatorní tezi a judikatorní závěr se nesmí domýšlet.
+Vedle této karty kapitoly zmiňují derogační nález Ústavního soudu vyhlášený pod č. 35/2002 Sb. Kapitoly jej uvádějí výhradně jako změnu znění (zrušení § 3 odst. 1 písm. d), § 3 odst. 3 a 4 a § 5 odst. 2); jeho nosné důvody, ústavněprávní argumentace ani hranice závěrů v místním korpusu zachyceny nejsou. Místní korpus tedy neposkytuje judikatorní tezi k výkladu LustPol a judikatorní závěr se nesmí domýšlet.
 
-**Mezera a priority doplnění.** Po strojovém doplnění složky `judikatura/` je třeba přednostně ověřit, zda místní rozhodnutí řeší: (1) povahu lhůty 15 dnů podle § 9 odst. 1; (2) vztah § 9 odst. 1 k výčtu důvodů propuštění v zákoně č. 361/2003 Sb.; (3) soudní ochranu proti propuštění (§ 10, § 18 odst. 2 LustZ × soudní řád správní); (4) rovnocennost funkcí podle § 2 odst. 2; (5) význam evidence bez vědomosti evidované osoby (§ 3 odst. 1 písm. c), § 5 odst. 1 písm. e)); (6) nosné důvody nálezu č. 35/2002 Sb. a jejich dopad na výklad zbylých ustanovení.
+**Mezera a priority doplnění.** Karta NS 30 Cdo 3947/2013 žádnou z následujících otázek neřeší; při doplnění dalších místních rozhodnutí je třeba přednostně ověřit, zda řeší: (1) povahu lhůty 15 dnů podle § 9 odst. 1; (2) vztah § 9 odst. 1 k výčtu důvodů propuštění v zákoně č. 361/2003 Sb.; (3) soudní ochranu proti propuštění (§ 10, § 18 odst. 2 LustZ × soudní řád správní); (4) rovnocennost funkcí podle § 2 odst. 2; (5) význam evidence bez vědomosti evidované osoby (§ 3 odst. 1 písm. c), § 5 odst. 1 písm. e)); (6) nosné důvody nálezu č. 35/2002 Sb. a jejich dopad na výklad zbylých ustanovení.
 
 **Hloubkový test.**
 - U každého budoucího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
 - Ověřte, zda soud vykládal stejné znění LustPol (před nebo po nálezu č. 35/2002 Sb., před nebo po § 10b až § 10d) a zda nešlo o rozhodnutí k LustZ, jehož závěr nelze přenést automaticky.
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech (konkrétní útvar, konkrétní evidenční kategorie).
-- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku; do doplnění karet ponechte všechny výkladové otázky jako otevřené.
+- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku; karta NS 30 Cdo 3947/2013 výkladové otázky k LustPol neřeší, ponechte je proto otevřené.
 
 **Místní opora.** [rejstřík komentáře](INDEX.md); [úvod](00-uvod.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md)
 
@@ -323,7 +323,7 @@ Ke sporu č. 7 kapitola formuluje obě strany: pro prekluzi svědčí text a och
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu; u sporů č. 6 až 8 a 10 vždy uveďte i argument zdrženlivého výkladu omezení přístupu k funkci.
-- U každé varianty uveďte textový, systematický (vztah k LustZ a zákonu č. 361/2003 Sb.), historický a účelový argument; místní judikatorní argument zatím chybí.
+- U každé varianty uveďte textový, systematický (vztah k LustZ a zákonu č. 361/2003 Sb.), historický a účelový argument; místní judikatorní argument k těmto sporům chybí (jediná místní karta, NS 30 Cdo 3947/2013 u § 9, se týká odpovědnosti státu za škodu podle zákona č. 82/1998 Sb.).
 - Porovnejte praktické následky variant (zánik důvodu propuštění × setrvání nezpůsobilé osoby; propuštění × převedení).
 - Není-li spor místními prameny řešitelný, zachovejte varianty, uveďte bezpečnější postup pro praxi a označte nejistotu.
 
@@ -401,7 +401,7 @@ Místní kapitoly obsahují **15 výskytů modelové situace**, **15 výskytů v
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **3 kapitolami**. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- složka `judikatura/` zatím neexistuje (doplní se strojově); soubor zásad proto neodkazuje na žádnou místní kartu s citovatelnou tezí;
+- složka `judikatura/` obsahuje jedinou kartu, NS 30 Cdo 3947/2013 ([judikatura/NS-30-Cdo-3947-2013.md](judikatura/NS-30-Cdo-3947-2013.md)) u § 9, která s ním souvisí jen nepřímo (zákon č. 82/1998 Sb.); soubor zásad z ní žádnou zásadu nedovozuje a ostatní ustanovení jsou bez místní judikatury;
 - v repozitáři není místní důvodová zpráva; historický argument stojí jen na údajích o novelách v úvodu a v § 11;
 - novější znění než místní konsolidace k 1. 7. 2017 není k dispozici: „Novější znění v místních zdrojích není, a pozdější změny proto nelze vyloučit.“;
 - dnešní organizaci dotčených sborů nelze z místních zdrojů ověřit: „konkrétní dnešní organizační strukturu nelze z místních materiálů ověřit.“;
@@ -422,13 +422,13 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod](00-uvod.md) | ano | ano | ano | jen konstatování absence | ano | ano | nenalezeno | ano |
+| [Úvod](00-uvod.md) | ano | ano | ano | jen odkaz na 1 místní kartu u § 9 | ano | ano | nenalezeno | ano |
 | [Kapitola 1](01-funkce-predpoklady.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
-| [Kapitola 2](02-osvedceni-skonceni-prestupky.md) | ano | ano | ano | jen derogační nález č. 35/2002 Sb. | ano | ano | ano | ano |
+| [Kapitola 2](02-osvedceni-skonceni-prestupky.md) | ano | ano | ano | 1 místní karta u § 9 (NS 30 Cdo 3947/2013, jen nepřímo) a derogační nález č. 35/2002 Sb. | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** citovatelná judikatorní teze chybí ve všech 3 kapitolách; po doplnění složky `judikatura/` znovu projít vrstvy 9 a 10.
+- **Judikatura:** citovatelná judikatorní teze k výkladu LustPol chybí ve všech 3 kapitolách; jediná místní karta, NS 30 Cdo 3947/2013 ([judikatura/NS-30-Cdo-3947-2013.md](judikatura/NS-30-Cdo-3947-2013.md)) u § 9, se týká odpovědnosti státu za škodu podle zákona č. 82/1998 Sb. a s § 9 souvisí jen nepřímo.
 - **Aplikace:** úvod nemá modelovou situaci; aplikační vrstva je soustředěna v kapitolách 1 a 2.
 - **Sporné výklady:** čtrnáct výkladových otázek (vrstva 10) zůstává bez rozhodující místní opory.
 - **Ústavní a evropská rovina:** chybí ve všech kapitolách.
