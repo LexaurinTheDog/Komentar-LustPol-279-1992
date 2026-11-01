@@ -142,6 +142,11 @@ Osvědčení si vyžaduje ministr vnitra nebo spravedlnosti, popřípadě zmocn�
 
 **Odst. 5 — odmítnutí nebo nepravdivost čestného prohlášení.** Odmítnutí předložit čestné prohlášení ve lhůtě 60 dnů od účinnosti zákona i nepravdivost čestného prohlášení se posuzují podle odst. 1, tedy jako důvod propuštění. Platí to i u skutečností, jejichž zjištění by jinak vedlo jen k převedení. První alternativa je přechodná a časově vyčerpaná. Druhá alternativa („je-li čestné prohlášení nepravdivé“) není lhůtou vázána a lze ji vztáhnout i na prohlášení učiněná později. Takový výklad však rozšiřuje přísnější následek a je **výkladovou otázkou**. Odkaz na § 3 odst. 1 zahrnuje i zrušené písm. d) a skutečnosti dokládané osvědčením. Fakticky se tedy uplatní u skutečností podle § 6 odst. 2 a u prohlášení podle § 7.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 3947/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F5B59D10F58B4C76C1257DB60036719C?openDocument) — 4. 12. 2014, kat. A
+  > „Evidence osoby v materiálech Státní bezpečnosti není nesprávným úředním postupem ve smyslu zákona č. 82/1998 Sb. (ve znění pozdějších předpisů) bez zřetele k tomu, že soud určil, že šlo o evidenci neoprávněnou"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Policista (nar. 1958) slouží na služebním místě vedoucího oddělení odpovídajícím funkci podle § 2. Při výběrovém řízení předložil čestné prohlášení, že nebyl příslušníkem Lidových milicí. Personální útvar 1. 6. zjistí z archivních dokumentů, že jím v letech 1983–1989 byl. Služební funkcionář vydá rozhodnutí o propuštění 30. 6.
